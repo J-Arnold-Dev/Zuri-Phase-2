@@ -74,7 +74,7 @@ body{
 .contain .second-section{
     padding:15px 10px;
     background-color: rgb(240, 240, 240);
-    height: 900px;
+    height: 1000px;
 }
 .second-section .container li{
     list-style: none;
