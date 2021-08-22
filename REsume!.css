@@ -25,11 +25,11 @@ body{
     margin-top: -70px;
 }
 .contain .first-section{
-    width: 70%;
-    height: 1000px;
+    width: 75%;
+    height: 900px;
     float: left;
     padding: 15px 10px 0px 60px;
-    margin: 0px 20px 0px 0px;
+    margin: 0px 10px 0px 0px;
     background-color: #fff;
     background: -webkit-linear-gradient(180deg, rgb(240, 240, 240) 5% rgb(255, 255, 255) 75%);
 }
@@ -74,7 +74,7 @@ body{
 .contain .second-section{
     padding:20px 10px;
     background-color: rgb(240, 240, 240);
-    height: 1000px;
+    height: 900px;
 }
 .second-section .container li{
     list-style: none;
